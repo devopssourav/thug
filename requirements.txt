@@ -1,0 +1,3 @@
+# Thug requirements
+thug==0.10.2
+
